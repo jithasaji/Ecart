@@ -1,11 +1,11 @@
 import React from 'react'
 
-function App() {
+function Cart() {
   return (
     <div>
-      <h1>E cart</h1>
+      
     </div>
   )
 }
 
-export default App
+export default Cart
